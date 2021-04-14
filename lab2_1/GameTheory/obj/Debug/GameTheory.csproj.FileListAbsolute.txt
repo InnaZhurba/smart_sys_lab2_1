@@ -1,0 +1,7 @@
+D:\326-ПІ\ІІ семестр\SmartSystems\lab2_1\lab2_1\GameTheory\bin\Debug\GameTheory.exe.config
+D:\326-ПІ\ІІ семестр\SmartSystems\lab2_1\lab2_1\GameTheory\bin\Debug\GameTheory.exe
+D:\326-ПІ\ІІ семестр\SmartSystems\lab2_1\lab2_1\GameTheory\bin\Debug\GameTheory.pdb
+D:\326-ПІ\ІІ семестр\SmartSystems\lab2_1\lab2_1\GameTheory\obj\Debug\GameTheory.csprojAssemblyReference.cache
+D:\326-ПІ\ІІ семестр\SmartSystems\lab2_1\lab2_1\GameTheory\obj\Debug\GameTheory.csproj.CoreCompileInputs.cache
+D:\326-ПІ\ІІ семестр\SmartSystems\lab2_1\lab2_1\GameTheory\obj\Debug\GameTheory.exe
+D:\326-ПІ\ІІ семестр\SmartSystems\lab2_1\lab2_1\GameTheory\obj\Debug\GameTheory.pdb
