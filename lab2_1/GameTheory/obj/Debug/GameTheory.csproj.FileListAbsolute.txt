@@ -5,3 +5,10 @@ D:\326-ПІ\ІІ семестр\SmartSystems\lab2_1\lab2_1\GameTheory\obj\Debug\
 D:\326-ПІ\ІІ семестр\SmartSystems\lab2_1\lab2_1\GameTheory\obj\Debug\GameTheory.csproj.CoreCompileInputs.cache
 D:\326-ПІ\ІІ семестр\SmartSystems\lab2_1\lab2_1\GameTheory\obj\Debug\GameTheory.exe
 D:\326-ПІ\ІІ семестр\SmartSystems\lab2_1\lab2_1\GameTheory\obj\Debug\GameTheory.pdb
+C:\Users\Asus\source\repos\smart_sys_lab2_1\lab2_1\GameTheory\bin\Debug\GameTheory.exe.config
+C:\Users\Asus\source\repos\smart_sys_lab2_1\lab2_1\GameTheory\bin\Debug\GameTheory.exe
+C:\Users\Asus\source\repos\smart_sys_lab2_1\lab2_1\GameTheory\bin\Debug\GameTheory.pdb
+C:\Users\Asus\source\repos\smart_sys_lab2_1\lab2_1\GameTheory\obj\Debug\GameTheory.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\smart_sys_lab2_1\lab2_1\GameTheory\obj\Debug\GameTheory.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\smart_sys_lab2_1\lab2_1\GameTheory\obj\Debug\GameTheory.exe
+C:\Users\Asus\source\repos\smart_sys_lab2_1\lab2_1\GameTheory\obj\Debug\GameTheory.pdb

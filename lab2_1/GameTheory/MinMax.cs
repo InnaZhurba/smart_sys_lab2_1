@@ -14,6 +14,8 @@ namespace GameTheory
         public double[] Min { get; set; }
         public double[] Max { get; set; }
         public double A_MaxMin { get; set; }
+        public int win_i;
+        public int win_j;
         public double B_MinMax { get; set; }
         public MinMax(uint Row, uint Colum)
         {
@@ -65,11 +67,15 @@ namespace GameTheory
             for (int i = 0; i < RowCount; i++)
             {
                 if (Min[i] > A_MaxMin)
+                {
                     A_MaxMin = Min[i];
+                    win_i = i;
+                }
                 for (int j = 0; j < ColumCount; j++)
                 {
                     if (Max[j] < B_MinMax)
                         B_MinMax = Max[j];
+                    win_j = j;
                 }
             }
         }
@@ -98,6 +104,9 @@ namespace GameTheory
             Console.WriteLine("\n**********\n");
 
             Console.WriteLine($"A_MaxMin:{A_MaxMin}, B_MinMax:{B_MinMax}");
+            Console.WriteLine("\n**********\n");
+
+            Console.WriteLine($"win row:{win_i+1}, win column:{win_j+1}");
         }
     }
 
